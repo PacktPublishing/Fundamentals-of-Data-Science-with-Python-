@@ -30,7 +30,3 @@ CISCO
 
 * [Cisco Voice Solutions for Small and Medium-Sized Enterprises SME - CUCME [Video]](https://www.packtpub.com/application-development/cisco-voice-solutions-small-and-medium-sized-enterprises-sme-cucme-video?utm_source=github&utm_medium=repository&utm_campaign=9781788476188)
 
-### Download a free PDF
-
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781789133981">https://packt.link/free-ebook/9781789133981 </a> </p>
